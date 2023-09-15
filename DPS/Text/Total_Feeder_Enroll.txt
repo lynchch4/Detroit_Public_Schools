@@ -1,6 +1,0 @@
-            TOTAL_ENROLLMENT  Percentage_Change
-SchoolYear                                     
-19 - 20                39074              1.000
-20 - 21                37753              0.966
-21 - 22                36196              0.926
-22 - 23                37581              0.962
