@@ -8,7 +8,7 @@ There has been a decline in enrollment across all categories, with Detroit chart
 
  
 
-image.png
+![Image](screenshot.jpg)
  
  
 
