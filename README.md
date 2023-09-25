@@ -8,7 +8,7 @@ There has been a decline in enrollment across all categories, with Detroit chart
 
  
 
-![Image](screenshot.jpg)
+![Image](/DPS/Images/school_enrollment.png)
  
  
 
