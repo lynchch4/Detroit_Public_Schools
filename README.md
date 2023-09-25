@@ -15,13 +15,15 @@ Southeastern(+11.4%), Central(+7.4%), Mumford(+1.4%) and Ford(+0.6%) had an incr
 
 (link to table)
 
+![image](https://github.com/lynchch4/Detroit_Public_Schools/assets/117898475/a93a05f2-8f43-49b2-a571-169adbde502a)
  
 
-image.png
+
 Total enrollment across all 11 feeder patterns fell by 3.8% over the 4 year period.
 (Link to table)
 
-image.png
+![image](https://github.com/lynchch4/Detroit_Public_Schools/assets/117898475/ba507685-7f36-4b35-b6bf-ec4fcdb569ba)
+
 
 Factoring in the estimated 2.7% decline in population for the city of Detroit, assuming an even distribution across age ranges and the estimated 0.4% decline in population for the state of Michigan leaves a 2.3% difference. Using state enrollment as the baseline,  the charter schools at a +2.4% (-0.41+0.23+0.42) and the DPS schools at  -2.0% (-0.85+0.23+0.42) of the average state decline. This suggests that the charter schools are enrolling students who were previously enrolled or would have been enrolled at DPSCD. I would recommend that DPSCD focuses on charter school students and develop additional methods to entice families to enroll their students in DPSCD schools and to keep current students from switching to charter schools.
 
