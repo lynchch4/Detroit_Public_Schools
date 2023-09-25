@@ -8,7 +8,7 @@ There has been a decline in enrollment across all categories, with Detroit chart
 
  
 
-![Image](school_enrollment.png)
+![Image]([school_enrollment.png](https://github.com/lynchch4/Detroit_Public_Schools/blob/main/DPS/Images/school_enrollment.png))
  
  
 
