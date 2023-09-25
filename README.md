@@ -8,9 +8,8 @@ There has been a decline in enrollment across all categories, with Detroit chart
 
  
 
-![Image]([school_enrollment.png])
- 
- 
+ ![image](https://github.com/lynchch4/Detroit_Public_Schools/assets/117898475/5eb3c63c-6fbb-4665-bdf6-d219e3e1a02e)
+
 
 Southeastern(+11.4%), Central(+7.4%), Mumford(+1.4%) and Ford(+0.6%) had an increase in enrollment over this period. All other feeder patterns had a decrease in enrollment Cody(-8.3%), Osborn(-7.2%), Pershing(-7.1%), and Western(-1.8%). With EEVPA(-12.8%), Northwestern(-11.8%) and Denby(-11.1%) having a decrease in enrollment by over ten percent. 
 
